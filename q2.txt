@@ -1,1 +1,2 @@
-city : bangalore
+city : vellore
+>>>>>>> 1227c8b (q2.txt modified)
