@@ -1,5 +1,2 @@
 this file was created in the repo to demonstrate pull command.
-<<<<<<< HEAD
-=======
-this line was added in commit2
->>>>>>> 6f6a0a5 (Second commit in feature3)
+this line was added in commit1
