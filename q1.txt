@@ -1,1 +1,2 @@
 The file q1.txt was created and ready to commit.
+Adding changes into file after initial commit.
